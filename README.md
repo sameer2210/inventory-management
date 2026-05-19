@@ -1,3 +1,6 @@
+### inventory management
+
+
 You are required to develop a simple web application that uses a Node.js backend and a MySQL database. The goal is to create a form in the frontend where users can enter item details and then view those entries in a tabular format. Each input field should be validated in the backend, and database interactions should include a JOIN operation. Additionally, you must apply basic CSS styling to enhance the user interface.
 
 Task Requirements:
